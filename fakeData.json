@@ -1,0 +1,29 @@
+{
+    "products":[
+        {
+          "id": "1",
+          "productName": "Toyota Corolla",
+          "category": "Sedan",
+          "brand": "Toyota",
+          "price": 25000,
+          "image": "https://i.ibb.co.com/3xBMb3P/car.jpg"
+        },
+        {
+          "id": "2",
+          "productName": "Honda Civic",
+          "category": "Sedan",
+          "brand": "Honda",
+          "price": 27000,
+          "image": "https://i.ibb.co.com/3xBMb3P/car.jpg"
+        },
+        {
+          "id": "3",
+          "productName": "Ford Mustang",
+          "category": "Sports",
+          "brand": "Ford",
+          "price": 55000,
+          "image": "https://i.ibb.co.com/3xBMb3P/car.jpg"
+        }
+      ]
+      
+}
